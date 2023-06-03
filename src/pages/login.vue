@@ -1,7 +1,8 @@
 <script setup lang="ts">
-definePageMeta({
-  layout: "authentication",
-});
+//para definir otro layout:
+// definePageMeta({
+//   layout: "authentication",
+// });
 </script>
 
 <template>
